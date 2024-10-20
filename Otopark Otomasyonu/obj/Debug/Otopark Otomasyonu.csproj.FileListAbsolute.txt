@@ -1,0 +1,195 @@
+c:\users\regaip aydoğdu\documents\visual studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+c:\users\regaip aydoğdu\documents\visual studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+c:\users\regaip aydoğdu\documents\visual studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+c:\users\regaip aydoğdu\documents\visual studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Form1.resources
+c:\users\regaip aydoğdu\documents\visual studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Properties.Resources.resources
+c:\users\regaip aydoğdu\documents\visual studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.GenerateResource.Cache
+c:\users\regaip aydoğdu\documents\visual studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+c:\users\regaip aydoğdu\documents\visual studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracGiris.resources
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.YoneticiAnamenu.resources
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracCikisi.resources
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracGecmisi.resources
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracKonumlari.resources
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitKulAracGecmis.resources
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulAnaMenu.resources
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitKulProfilBilgi.resources
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitKulAracBilgi.resources
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulKayitOl.resources
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MisafirKulAnaMenu.resources
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AcilisPencere.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+C:\Users\Regaip Aydoğdu\Documents\Visual Studio 2013\Projects\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MesajKutusu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AcilisPencere.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracCikisi.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracGecmisi.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracGiris.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracKonumlari.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Form1.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitKulAracBilgi.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitKulAracGecmis.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitKulProfilBilgi.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulAnaMenu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulKayitOl.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MesajKutusu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MisafirKulAnaMenu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Properties.Resources.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.YoneticiAnamenu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Programs\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AcilisPencere.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Form1.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulAnaMenu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulKayitOl.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MesajKutusu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MisafirKulAnaMenu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Properties.Resources.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.YoneticiAnamenu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+D:\Otopark Otomasyonu son stabil\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+D:\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+D:\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AcilisPencere.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracCikisi.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracGecmisi.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracGiris.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracKonumlari.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Form1.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitKulAracBilgi.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitKulAracGecmis.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitKulProfilBilgi.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulAnaMenu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulKayitOl.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MesajKutusu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MisafirKulAnaMenu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Properties.Resources.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.YoneticiAnamenu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu son stabil\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.aracgirisi.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.arackonumlar.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.araccikis.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.aracgecmis.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularacgecmis.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kulprofilbilgi.resources
+D:\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+D:\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+D:\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AcilisPencere.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.araccikis.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.aracgecmis.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.aracgirisi.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.arackonumlar.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Form1.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulAnaMenu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulKayitOl.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularacbilgi.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularacgecmis.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kulprofilbilgi.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MesajKutusu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MisafirKulAnaMenu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Properties.Resources.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.YoneticiAnamenu.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.tarifeucret.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularaccikis.resources
+C:\Users\Regaip Aydoğdu\Downloads\Music\Otopark Otomasyonu user kontrolsuz hatasız\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularacgiris.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularaccikis.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularacgiris.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.misaraccikis.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.misaracgiris.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kullanicilar.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.tarifeguncelle.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.YoneticiAyarlar.resources
+C:\Users\Regaip Aydoğdu\Downloads\Compressed\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.yonprofilgun.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csprojResolveAssemblyReference.cache
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AcilisPencere.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.araccikis.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.aracgecmis.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.aracgirisi.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.arackonumlar.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Form1.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulAnaMenu.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulKayitOl.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularaccikis.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularacgecmis.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularacgiris.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kullanicilar.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kulprofilbilgi.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MesajKutusu.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MisafirKulAnaMenu.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.misaraccikis.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.misaracgiris.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Properties.Resources.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.tarifeguncelle.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.YoneticiAnamenu.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.YoneticiAyarlar.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.yonprofilgun.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.GenerateResource.Cache
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kultarguncel.resources
+D:\Programlar\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.mistarguncel.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+D:\Ders Notları\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+D:\Ders Notları\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csprojAssemblyReference.cache
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AcilisPencere.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.araccikis.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.aracgecmis.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.aracgirisi.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.arackonumlar.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Form1.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulAnaMenu.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.KayitliKulKayitOl.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularaccikis.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularacgecmis.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kularacgiris.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kullanicilar.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kulprofilbilgi.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.kultarguncel.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MesajKutusu.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.MisafirKulAnaMenu.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.misaraccikis.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.misaracgiris.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.mistarguncel.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Properties.Resources.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.tarifeguncelle.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.YoneticiAnamenu.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.YoneticiAyarlar.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.yonprofilgun.resources
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.GenerateResource.cache
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.CoreCompileInputs.cache
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+D:\Ders Notları\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\Proje\175541026_Regaip_Aydogdu\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
